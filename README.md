@@ -60,5 +60,5 @@ I've developed a dynamic sales dashboard for Super Store that offers in-depth in
 
 This dashboard is designed to empower data-driven decisions and optimize business performance.
 
-Explore dashboard:[https://app.powerbi.com/reportEmbed?reportId=50b2220e-a279-4d95-a3d7-41e9dcac23e8&autoAuth=true&ctid=850aa78d-94e1-4bc6-9cf3-8c11b530701c]
+Explore dashboard:[https://app.powerbi.com/reportEmbed?reportId=50b2220e-a279-4d95-a3d7-41e9dcac23e8&autoAuth=true&ctid=850aa78d-94e1-4bc6-9cf3-8c11b530701c] 
 
