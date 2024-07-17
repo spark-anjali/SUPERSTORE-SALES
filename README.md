@@ -1,4 +1,4 @@
-# BRAINWAVE_MATRIX_INTERN
+# SUPERSTORES SALES DASHBOARD
 I've developed a dynamic sales dashboard for Super Store that offers in-depth insights and a 15-day sales forecast. Key highlights include:
 
 •⁠  ⁠*Sales Breakdown by Payment Mode, Region, Segment, and Shipping Method*
